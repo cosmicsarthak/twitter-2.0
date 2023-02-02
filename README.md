@@ -1,3 +1,3 @@
-Twitter 2.0
+# Twitter 2.0 App
 
-sarthak.app/twitter2
+https://sarthak.app/projects/twitter2
